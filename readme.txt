@@ -7,4 +7,4 @@ Creating a new branch is quick form too.
 =======
 Creating a new branch is quick from too.
 >>>>>>> fea
-
+setting
